@@ -1,1 +1,1 @@
-see local file - will be updated via separate means if needed
+FULL_CONTENT_WILL_BE_SENT
